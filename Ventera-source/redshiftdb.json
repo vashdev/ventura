@@ -1,0 +1,10 @@
+{
+"cluster":"redshift-cluster",
+"db":"Xdb",
+"port":"5439",
+"user":"Xuser",
+"endpoint":"redshift-cluster-X.us-east-1.redshift.amazonaws.com",
+"password":"X",
+"jdbcurl":"jdbc:redshift:\\\\X.us-east-1.redshift.amazonaws.com:5439\\Xdb",
+"tempdir":"s3n://BKT/data/work"
+}
